@@ -7,6 +7,7 @@ A website that offers fitness training service
 * CSS
 
 ## Website 
+https://shanicesauce.github.io/Run-Buddy/
 
 ## Contribution 
 Made with ♥ by Shanice
