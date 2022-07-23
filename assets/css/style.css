@@ -18,7 +18,7 @@ body {
 header{
     background-image: url(../images/flipped-hero-image.jpg); 
     background-size:cover;
-    background-position: 67%;
+    background-position:67%;
     background-attachment: fixed;
     padding: 10px 15px 20px 25px;
     display: flex;
